@@ -8,7 +8,7 @@
     "scripts": {
         "start": "node clint.js"
     },
-    "author": "Qadeer Kham",
+    "author": "Qadeer Khan",
     "license": "GPL-3.0 license",
     "dependencies": {
         "baileys-elite": "latest",
